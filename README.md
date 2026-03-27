@@ -17,16 +17,42 @@ The repository contains samples from six economically vital horticultural crops.
 * **Leaf:** Spots, Blight, Anthracnose, Red Rust, Canker, and Ring Spot.
 * **Apple:** Healthy Fruit, Disease Fruit, Healthy Leaf, Black Rot
 ![Apple Dataset Sample Images](AP.png)
+
+Black rot, caused by the fungus Diplodia seriata, affects the leaves, fruit, and bark of apple trees. On the fruit, it typically appears as a firm, brown-to-black rot originating from the calyx or a wound, often characterized by concentric rings. On leaves, it manifests as small purple spots that evolve into "frog-eye" lesions with a tan center and purple rim.
+
 * **Banana:** Healthy Fruit, Disease Fruit, Healthy Leaf, Cordana
 ![Banana Dataset Sample Images](BI.png)
+
+Caused by the fungus Cordana musae, this disease primarily attacks the foliage of banana plants. It presents as large, oval-shaped lesions with a distinct grayish-brown center surrounded by bright yellow halos. As the infection progresses, the lesions expand along the leaf margins, significantly reducing the photosynthetic capacity of the plant.
+
 * **Citrus:** Healthy Fruit, Disease Fruit, Healthy Leaf, Canker Leaf
 ![Citrus Dataset Sample Images](CI.png)
+
+
 * **Guava:** Healthy Fruit, Disease Fruit, Healthy Leaf, Black Rot
 ![Guava Dataset Sample Images](GI.png)
+
+
+
 * **Mango:** Healthy Fruit, Disease Fruit, Healthy Leaf, Bacterial Canker
 ![Mango Dataset Sample Images](MI.png)
+
+
 * **Papaya:** Healthy Fruit, Disease Fruit, Healthy Leaf, Ring Spot
 ![Papaya Dataset Sample Images](PI.png)
+
+### 📝 Disease Overview
+The dataset covers a wide spectrum of plant pathologies, as summarized below:
+
+| Crop | Disease | Part | Description |
+| :--- | :--- | :--- | :--- |
+| **Apple** | Black Rot | Leaf/Fruit | Brown rot with concentric rings; purple-rimmed leaf spots. |
+| **Banana** | Cordana | Leaf | Large oval lesions with distinct yellow halos. |
+| **Citrus** | Canker | Leaf/Fruit | Contagious bacterial corky lesions and necrotic spots. |
+| **Guava** | Red Rust | Leaf | Algal-based rusty colored velvety circular spots. |
+| **Mango** | Bacterial Canker | Leaf/Fruit | Water-soaked angular spots and star-shaped fruit lesions. |
+| **Papaya** | Ring Spot | Leaf/Fruit | Viral mosaic patterns and characteristic fruit rings. |
+
 ### Data Distribution by Crop and Class
 
 | S.No | Crop | Class | Images | Crop | Class | Images |
