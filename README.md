@@ -18,28 +18,56 @@ The repository contains samples from six economically vital horticultural crops.
 * **Apple:** Healthy Fruit, Disease Fruit, Healthy Leaf, Black Rot
 ![Apple Dataset Sample Images](AP.png)
 
-Black rot, caused by the fungus Diplodia seriata, affects the leaves, fruit, and bark of apple trees. On the fruit, it typically appears as a firm, brown-to-black rot originating from the calyx or a wound, often characterized by concentric rings. On leaves, it manifests as small purple spots that evolve into "frog-eye" lesions with a tan center and purple rim.
-
+### 1. Apple (*Malus domestica*)
+* **Healthy Leaf:** Characterized by a uniform green color, smooth margins, and the absence of spots or fungal growth.
+* **Black Rot (Leaf):** Also known as "frog-eye" leaf spot; lesions begin as small purple specks that expand into brown spots with distinct purple borders.
+* **Healthy Fruit:** Represents the baseline for quality control, showing a smooth skin texture and consistent pigmentation.
+* **Disease Fruit (Black Rot):** Manifests as a firm, leathery brown-to-black rot. As decay progresses, it develops concentric rings of black fruiting bodies (pycnidia).
+  
 * **Banana:** Healthy Fruit, Disease Fruit, Healthy Leaf, Cordana
 ![Banana Dataset Sample Images](BI.png)
 
-Caused by the fungus Cordana musae, this disease primarily attacks the foliage of banana plants. It presents as large, oval-shaped lesions with a distinct grayish-brown center surrounded by bright yellow halos. As the infection progresses, the lesions expand along the leaf margins, significantly reducing the photosynthetic capacity of the plant.
+### 2. Banana (*Musa*)
+* **Healthy Leaf:** Large, vibrant green blades without chlorosis or necrotic edges, indicating optimal photosynthesis.
+* **Cordana Leaf Spot:** Large, oval-shaped lesions with grayish-brown centers, typically surrounded by bright yellow halos.
+* **Healthy Fruit:** Clean yellow or green peels without dark spotting, used to train models on "market-ready" standards.
+* **Disease Fruit:** Includes symptoms of fruit rot or anthracnose, characterized by sunken black spots that may coalesce.
 
 * **Citrus:** Healthy Fruit, Disease Fruit, Healthy Leaf, Canker Leaf
 ![Citrus Dataset Sample Images](CI.png)
 
+### 3. Citrus (*Citrus spp.*)
+* **Healthy Leaf:** Glossy, dark green foliage with no signs of mottled yellowing or raised corky textures.
+* **Canker Leaf:** Caused by *Xanthomonas citri*; presents as raised, tan-to-brown corky lesions surrounded by an oily, water-soaked margin.
+* **Healthy Fruit:** Uniform rind texture and color, essential for differentiating from pathological infections.
+* **Disease Fruit:** Exhibits scabby, crater-like lesions that reduce commercial value and lead to fruit drop.
 
 * **Guava:** Healthy Fruit, Disease Fruit, Healthy Leaf, Black Rot
 ![Guava Dataset Sample Images](GI.png)
 
-
+### 4. Guava (*Psidium guajava*)
+* **Healthy Leaf:** Clear, matte green surface with a distinct midrib and no signs of algal or fungal growth.
+* **Red Rust:** An algal infection appearing as velvety, rusty-orange circular spots on the upper leaf surface.
+* **Healthy Fruit:** Smooth, pale green or yellow skin with no indentations or dark necrotic tissue.
+* **Disease Fruit:** Shows symptoms of fruit canker or anthracnose, appearing as small, circular, brownish-black spots that may crack.
 
 * **Mango:** Healthy Fruit, Disease Fruit, Healthy Leaf, Bacterial Canker
 ![Mango Dataset Sample Images](MI.png)
 
+### 5. Mango (*Mangifera indica*)
+* **Healthy Leaf:** Deep green, elongated leaves with a smooth surface and no sign of angular black spots.
+* **Bacterial Canker (Leaf):** Water-soaked, angular black lesions limited by leaf veins; can lead to premature leaf fall.
+* **Healthy Fruit:** Clear skin with natural lenticels, providing a contrast to diseased samples.
+* **Disease Fruit:** Manifests as black, sunken, and often star-shaped cracked lesions that may exude a gummy substance.
 
 * **Papaya:** Healthy Fruit, Disease Fruit, Healthy Leaf, Ring Spot
 ![Papaya Dataset Sample Images](PI.png)
+
+### 6. Papaya (*Carica papaya*)
+* **Healthy Leaf:** Large, palmately lobed leaves with consistent green coloring and no mosaic patterns.
+* **Ring Spot (Leaf):** Symptoms include a prominent mosaic pattern, chlorosis, and "shoestring" distortion of the leaf blade.
+* **Healthy Fruit:** Smooth, orange-yellow skin (when ripe) without characteristic dark green rings.
+* **Disease Fruit:** Defined by dark-green, C-shaped or circular "rings" on the skin that remain visible through ripening.
 
 ### 📝 Disease Overview
 The dataset covers a wide spectrum of plant pathologies, as summarized below:
