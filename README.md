@@ -16,7 +16,7 @@ The repository contains samples from six economically vital horticultural crops.
 * **Fruit:** Rot, Scab-like lesions, and Necrotic spots.
 * **Leaf:** Spots, Blight, Anthracnose, Red Rust, Canker, and Ring Spot.
 * **Apple:** Healthy Fruit, Disease Fruit, Healthy Leaf, Black Rot
-![Apple Dataset Sample Images](AI.png)
+![Apple Dataset Sample Images](AP.png)
 * **Banana:** Healthy Fruit, Disease Fruit, Healthy Leaf, Cordana
 ![Banana Dataset Sample Images](BI.png)
 * **Citrus:** Healthy Fruit, Disease Fruit, Healthy Leaf, Canker Leaf
