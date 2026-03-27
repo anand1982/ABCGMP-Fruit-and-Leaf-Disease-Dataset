@@ -6,14 +6,27 @@
 
 The **ABCGMP** (Apple, Banana, Citrus, Guava, Mango, and Papaya) dataset is a comprehensive multi-crop image repository for plant pathology research. It addresses the challenge of automated disease detection in diverse agricultural environments by providing high-quality images of both **fruits and leaves**.
 
+Dataset Link: https://data.mendeley.com/datasets/fhbvmpcyy2/2
+
 ---
 
 ## 📊 Dataset Description
 
 The repository contains samples from six economically vital horticultural crops. The dataset preserves real-world symptom diversity, including fungal, bacterial, and viral manifestations such as:
-* **Leaf:** Spots, Blight, Anthracnose, Red Rust, Canker, and Ring Spot.
 * **Fruit:** Rot, Scab-like lesions, and Necrotic spots.
-
+* **Leaf:** Spots, Blight, Anthracnose, Red Rust, Canker, and Ring Spot.
+* **Apple:** Healthy Fruit, Disease Fruit, Healthy Leaf, Black Rot
+![Apple Dataset Sample Images](AI.png)
+* **Banana:** Healthy Fruit, Disease Fruit, Healthy Leaf, Cordana
+![Banana Dataset Sample Images](BI.png)
+* **Citrus:** Healthy Fruit, Disease Fruit, Healthy Leaf, Canker Leaf
+![Citrus Dataset Sample Images](CI.png)
+* **Guava:** Healthy Fruit, Disease Fruit, Healthy Leaf, Black Rot
+![Guava Dataset Sample Images](GI.png)
+* **Mango:** Healthy Fruit, Disease Fruit, Healthy Leaf, Bacterial Canker
+![Mango Dataset Sample Images](MI.png)
+* **Papaya:** Healthy Fruit, Disease Fruit, Healthy Leaf, Ring Spot
+![Papaya Dataset Sample Images](PI.png)
 ### Data Distribution by Crop and Class
 
 | S.No | Crop | Class | Images | Crop | Class | Images |
