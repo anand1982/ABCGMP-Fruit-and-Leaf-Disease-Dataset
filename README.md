@@ -107,6 +107,10 @@ To ensure robustness against variations in lighting and background, images were 
 
 ---
 
+### Paper Citation
+
+Jain AK, Nain N (2026) A comprehensive image dataset of fruit and leaf diseases across six horticultural crops for deep learning applications. J Plant Dis Prot. (Submitted)
+
 ## 💻 Deep Learning Setup
 
 For training models (such as MDTACNet) on **Kaggle** or **Google Colab**, follow these requirements.
